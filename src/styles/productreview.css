@@ -1,0 +1,8 @@
+.review-product-img{
+    width: 550px;
+    height: 270px;
+    margin: 5px;
+    box-shadow: 2px 2px 2px 2px;
+    border-radius: 10px;
+    cursor: pointer;
+}

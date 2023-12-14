@@ -1,0 +1,23 @@
+
+.HotAccessoriesMenu-div{
+    display: flex;
+    justify-content: center;
+}
+.HotAccessoriesMenu{
+    display: flex;
+    list-style: none;
+    
+    justify-content: space-between;
+    width: 60%;
+}
+.hot-link-tag {
+    text-decoration: none;
+    color: black;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .hot-link-tag:hover {
+    color: orange;
+     text-decoration: underline; 
+    
+  }

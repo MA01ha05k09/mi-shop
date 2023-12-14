@@ -1,0 +1,43 @@
+/* Home.css */
+
+.home {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .banner img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .product-list {
+    margin-top: 20px;
+  }
+  
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product-item {
+    box-sizing: border-box;
+    width: 20%;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .product-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .product-item h3 {
+    margin-top: 10px;
+  }
+  
+  .product-item p {
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  

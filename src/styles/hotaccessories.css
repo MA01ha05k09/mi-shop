@@ -1,0 +1,13 @@
+.hot-accessories-items-image {
+  width: 330px;
+  height: 250px;
+  margin: 6px;
+  box-shadow: 2px 2px 2px;
+}
+
+.hot-accessories-main-div {
+  padding: 100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

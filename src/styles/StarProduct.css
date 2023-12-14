@@ -1,0 +1,18 @@
+.main-div {
+  display: flex;
+  margin: 20px;
+}
+.smart-band {
+  height: 200px;
+  width: 300px;
+}
+.power-bank-imge {
+  height:523px;
+}
+.bag-imge {
+  width: 600px;
+  height: 324px;
+}
+.multi-image-div{
+    background-color:white;
+}
