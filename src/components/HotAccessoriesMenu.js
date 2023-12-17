@@ -4,6 +4,7 @@ import "../styles/HotAccessoriesMenu.css";
 const HotAccessoriesMenu = () => {
   return (
     <>
+    {/* Add Link */}
       <div className="HotAccessoriesMenu-div">
         <ul className="HotAccessoriesMenu">
           <li>

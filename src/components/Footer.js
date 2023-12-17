@@ -9,6 +9,7 @@ const Footer = () => {
       <div className="container p-3">
         <div className="row">
           <div className="col-md-4">
+            {/* Contact-inform mation */}
             <h5>Contact Us</h5>
             <p>Email: mi@gmail.com</p>
             <p>Phone: +1 (123) 456-7890</p>
@@ -27,6 +28,7 @@ const Footer = () => {
                 aria-label="Your Email"
                 aria-describedby="basic-addon2"
               />
+              {/* Subscribe button */}
               <div className="input-group-append">
                 <button className="btn btn-outline-secondary" type="button">
                   Subscribe

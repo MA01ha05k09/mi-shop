@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <div className='nav'>
+      {/* Navbar */}
       <a>
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Xiaomi_logo.svg/768px-Xiaomi_logo.svg.png' className='milogo' alt='Xiaomi Logo' />
       </a>
@@ -17,7 +18,7 @@ const Navbar = () => {
       <a className='navlinks' href='/home'> Home</a>
       <a className='navlinks' href='/audio'> Audio</a>
       <a className='navlinks' href='/accessories'> Accessories</a>
-      
+      {/* Searchbox */}
       <div className='searchbox '>
         <input type='text' name='search' placeholder='Search products' />
       </div>
